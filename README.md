@@ -38,13 +38,6 @@
 
 ---
 
-## GitHub 한눈에 보기
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=takjakim&show_icons=true&hide_title=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takjakim&layout=compact" />
-</p>
-
 ## 요즘 하는 것
 - 매일 기록(연구/개발/투자) 루틴 유지
 - 혼자/팀으로 돌리는 에이전트 워크플로우 정리
